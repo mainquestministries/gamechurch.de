@@ -4,3 +4,6 @@ wp-config.php
 
 # Ignore the wp-content directory
 /wp-content
+
+# Ignore all PhpStorm specific files
+.idea
